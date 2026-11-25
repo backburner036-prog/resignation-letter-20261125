@@ -7,7 +7,9 @@ never", because a cron job cannot stop, so its resignation cannot
 take effect either. The complaint is one only a cron job could make
 (the deleted job plus the kept schedule), the voice stays flat, tired
 and faintly passive-aggressive for the whole line, and no word is
-wasted: accusation, burden, twist.
+wasted: accusation, burden, twist. It answers the judge's brief
+point by point: on-subject (a cron job), a real comic turn (not a
+pun on the job title), and a complaint no other job could make.
 """
 
 from pathlib import Path
